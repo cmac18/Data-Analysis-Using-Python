@@ -1,9 +1,4 @@
-# python-challenge
-Python Homework - Py Me Up, Charlie
-
-Background
-Well... you've made it!
-It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. In this homework assignment, you'll be using the concepts you've learned to complete 2 Python Challenges, PyBank and PyPoll.
+Complete 2 Python Challenges, PyBank and PyPoll.
 Both of these challenges encompasses a real-world situation where your newfound Python scripting skills can come in handy. These challenges are far from easy so expect some hard work ahead!
 
 PyBank
@@ -31,8 +26,6 @@ Greatest Increase in Profits: Feb-2012 ($1926159)
 Greatest Decrease in Profits: Sep-2013 ($-2196167)
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
-
-
 
 PyPoll
 In this challenge, you are tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
@@ -62,4 +55,3 @@ O'Tooley: 3.000% (105630)
 Winner: Khan
 -------------------------
 
-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
